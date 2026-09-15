@@ -11,9 +11,9 @@
     = form.label :title, style: "display: block"
     = form.text_field :title
 
-  %div
-    = form.label :rating, style: "display: block"
-    = form.text_field :rating
+  .field
+    = form.label :rating
+    = form.select :rating, Movie::RATINGS
 
   %div
     = form.label :description, style: "display: block"
