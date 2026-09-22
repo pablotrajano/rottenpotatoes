@@ -1,6 +1,7 @@
 # RottenPotatoes
 
-Aplicação web em Ruby on Rails para listagem, cadastro e avaliação de filmes, desenvolvida na disciplina de Engenharia de Software (UnB) em 2026.2.
+Sistema web para catalogo e avaliacao de filmes da disciplina de Engenharia de Software.
+
 
 ---
 
