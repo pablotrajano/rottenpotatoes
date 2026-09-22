@@ -1,6 +1,6 @@
 # RottenPotatoes
 
-Aplicacao desenvolvida em Rails 8 para gerenciamento do catalogo RottenPotatoes.
+Aplicação web em Rails 8 para catalogo e avaliacao de filmes RottenPotatoes, desenvolvido como atividade da disciplina de Eng. de Software.
 
 ---
 
