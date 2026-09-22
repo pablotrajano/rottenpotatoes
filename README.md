@@ -1,5 +1,7 @@
 # README
 
+Aplicação de filmes desenvolvida na disciplina de Engenharia de Software (UnB) em 2026.2.
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
