@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-gem "json", "< 3"
+gem "json", "< 4"
 
 gem "haml", "~> 6.3.0"
 gem "haml-rails"
